@@ -19,13 +19,13 @@ const Projects = () => {
               alt="about image 1"
             />
             <span className="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
-              Flappy Virus
+              Furry Pals
             </span>
             <h3 className="text-2xl font-bold leading-tight text-gray-900 dark:text-white">
-              Mobile Android Game
+              Website
             </h3>
             <p className="text-lg font-normal text-gray-500 dark:text-gray-400">
-              A game that was made during the lockdown.
+              Online Veterinary Consultation platform
             </p>
             <a
               href="https://play.google.com/store/apps/details?id=com.CafeVentures.FlappyVirus&hl=en_CA&gl=US"
@@ -96,13 +96,13 @@ const Projects = () => {
               alt="about image 1"
             />
             <span className="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
-              AnyMoto Co.
+              AboutSkin PH
             </span>
             <h3 className="text-2xl font-bold leading-tight text-gray-900 dark:text-white">
-              Custom Motorcycle and Accessories
+              E-commerce Website
             </h3>
             <p className="text-lg font-normal text-gray-500 dark:text-gray-400">
-              Custom motorcylce parts and accessories.
+              Skincare solutions
             </p>
             <a
               href="#"
