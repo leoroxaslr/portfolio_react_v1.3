@@ -15,7 +15,8 @@ const Projects = () => {
           <div className="space-y-4">
             <img
               className="w-full rounded-lg"
-              src="./src/assets/Flappy Virus.png"
+              src="./src/assets/3.png
+            "
               alt="about image 1"
             />
             <span className="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
@@ -25,15 +26,16 @@ const Projects = () => {
               Website
             </h3>
             <p className="text-lg font-normal text-gray-500 dark:text-gray-400">
-              Online Veterinary Consultation platform
+              Online Veterinary Consultation platform developed using ReactJS,
+              Tailwind CSS, and Firebase.
             </p>
             <a
-              href="https://play.google.com/store/apps/details?id=com.CafeVentures.FlappyVirus&hl=en_CA&gl=US"
+              href="https://furrypals.online/"
               title=""
               className="text-white bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
               role="button"
             >
-              Download the app
+              View Demo
               <svg
                 aria-hidden="true"
                 className="w-5 h-5 ml-2 -mr-1"
@@ -63,8 +65,8 @@ const Projects = () => {
               Online tax compliance tool
             </h3>
             <p className="text-lg font-normal text-gray-500 dark:text-gray-400">
-              Takatax is an accredited online tax compliance tool in the
-              Philippines. File and pay taxes from wherever, whenever.
+              Takatax is a tax compliance tool developed using ReactJS, Tailwind
+              CSS, and Firebase.
             </p>
             <a
               href="https://www.taka-tax.online/"
@@ -92,7 +94,7 @@ const Projects = () => {
           <div className="space-y-4">
             <img
               className="w-full rounded-lg"
-              src="./src/assets/anymoto.png"
+              src="./src/assets/2.png"
               alt="about image 1"
             />
             <span className="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
@@ -102,10 +104,11 @@ const Projects = () => {
               E-commerce Website
             </h3>
             <p className="text-lg font-normal text-gray-500 dark:text-gray-400">
-              Skincare solutions
+              Skincare solutions website Developed using ReactJS, Tailwind CSS,
+              and Rest API.
             </p>
             <a
-              href="#"
+              href="https://aboutskin-client.vercel.app/"
               title=""
               className="text-white bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
               role="button"

@@ -11,11 +11,10 @@ const About = () => {
           </p>
           <p>
             I started my tech journey when I was 7. I immediately got hooked and
-            curious on how it works. Programming and engineering stuff.
-            classNameic script kiddie story that fueled my dreams in tech. Fast
-            forward a few years, I wrote my first code. A 1000 line instruction
-            that makes a stupid little cockroach robot react when the light
-            turns on.
+            curious on how it works. Programming and engineering stuff. classic
+            script kiddie story that fueled my dreams in tech. Fast forward a
+            few years, I wrote my first code. A 1000 line instruction that makes
+            a little cockroach robot react when the light turns on.
           </p>
           <br />
           <p>
