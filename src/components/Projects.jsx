@@ -1,3 +1,7 @@
+import furrypalsImage from "./src/assets/furrypals.png";
+import takataxImage from "./src/assets/takatax.png";
+import aboutskinImage from "./src/assets/aboutskin.png";
+
 const Projects = () => {
   return (
     <section className="bg-white dark:bg-gray-900 antialiased">
@@ -15,7 +19,7 @@ const Projects = () => {
           <div className="space-y-4">
             <img
               className="w-full rounded-lg"
-              src="./src/assets/furrypals.png"
+              src={furrypalsImage}
               alt="about image 1"
             />
             <span className="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
@@ -54,7 +58,7 @@ const Projects = () => {
           <div className="space-y-4">
             <img
               className="w-full rounded-lg"
-              src="./src/assets/takatax.png"
+              src={takataxImage}
               alt="about image 1"
             />
             <span className="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
@@ -93,7 +97,7 @@ const Projects = () => {
           <div className="space-y-4">
             <img
               className="w-full rounded-lg"
-              src="./src/assets/aboutskin.png"
+              src={aboutskinImage}
               alt="about image 3"
             />
             <span className="bg-gray-100 text-gray-900 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-gray-300">
