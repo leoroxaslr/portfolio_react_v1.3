@@ -1,6 +1,6 @@
-import furrypalsImage from "./src/assets/furrypals.png";
-import takataxImage from "./src/assets/takatax.png";
-import aboutskinImage from "./src/assets/aboutskin.png";
+import furrypalsImage from "../assets/furrypals.png";
+import takataxImage from "../assets/takatax.png";
+import aboutskinImage from "../assets/aboutskin.png";
 
 const Projects = () => {
   return (
