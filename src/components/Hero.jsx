@@ -1,4 +1,4 @@
-import faceImage from "./src/assets/Untitled design.png";
+import faceImage from "../assets/Untitled design.png";
 
 const Hero = () => {
   return (

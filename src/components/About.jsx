@@ -1,3 +1,6 @@
+import talentImage1 from "../assets/2.png";
+import talentImage2 from "../assets/3.png";
+
 const About = () => {
   return (
     <section className="bg-white dark:bg-gray-900">
@@ -33,12 +36,12 @@ const About = () => {
         <div className="grid grid-cols-2 gap-4 mt-8">
           <img
             className="w-full rounded-lg"
-            src="./src/assets/Ta lent.png"
+            src={talentImage1}
             alt="about image 1"
           />
           <img
-            className="w-full rounded-lg"
-            src="./src/assets/Ta lent.png"
+            className="mt-4 w-full lg:mt-10 rounded-lg"
+            src={talentImage2}
             alt="about image 2"
           />
         </div>
